@@ -1,0 +1,25 @@
+## .NET
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## JetBrains Rider / ReSharper
+.idea/
+*.DotSettings.user
+*.sln.DotSettings.user
+
+## Test artifacts
+**/Logs/
+**/Screenshots/
+*.log
+
+## Build results
+*.dll
+*.pdb
+*.cache
+!**/log4net.config
