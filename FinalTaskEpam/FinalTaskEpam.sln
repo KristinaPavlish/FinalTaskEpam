@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalTaskEpam.TestProject", "FinalTaskEpam.TestProject\FinalTaskEpam.TestProject.csproj", "{57838E27-6FB5-4CCC-8B9A-8C3E19CC59A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57838E27-6FB5-4CCC-8B9A-8C3E19CC59A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57838E27-6FB5-4CCC-8B9A-8C3E19CC59A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57838E27-6FB5-4CCC-8B9A-8C3E19CC59A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57838E27-6FB5-4CCC-8B9A-8C3E19CC59A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
